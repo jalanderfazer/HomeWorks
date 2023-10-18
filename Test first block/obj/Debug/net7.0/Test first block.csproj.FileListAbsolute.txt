@@ -1,0 +1,14 @@
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\bin\Debug\net7.0\Test first block.exe
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\bin\Debug\net7.0\Test first block.deps.json
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\bin\Debug\net7.0\Test first block.runtimeconfig.json
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\bin\Debug\net7.0\Test first block.dll
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\bin\Debug\net7.0\Test first block.pdb
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\Test first block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\Test first block.AssemblyInfoInputs.cache
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\Test first block.AssemblyInfo.cs
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\Test first block.csproj.CoreCompileInputs.cache
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\Test first block.dll
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\refint\Test first block.dll
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\Test first block.pdb
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\Test first block.genruntimeconfig.cache
+C:\Users\cater\OneDrive\Документы\GeekBrains\HomeWorks\Test first block\obj\Debug\net7.0\ref\Test first block.dll
